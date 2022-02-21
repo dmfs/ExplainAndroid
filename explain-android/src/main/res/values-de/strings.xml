@@ -6,7 +6,7 @@
 
     <string name="explain_android_prompt_disable_app_hibernation">Bitte deaktiviere den App-Ruhezustand für %1$s.</string>
 
-    <string name="explain_android_prompt_disable_app_hibernation_instructions">Öffne die Play App <b>Menü</b> &gt; <b>Play Protect</b> &gt; <b>Berechtigungen für ungegnutzte Apps</b> deaktiviere <b>Berechtigungen entfernen, wenn die App nicht verwendet wird</b></string>
+    <string name="explain_android_prompt_disable_app_hibernation_instructions">Öffne die Play App <b>\"Menü\"</b> &gt; <b>\"Play Protect\"</b> &gt; <b>\"Berechtigungen für ungegnutzte Apps\"</b> deaktiviere <b>\"Berechtigungen entfernen, wenn die App nicht verwendet wird\"</b></string>
 
     <string name="explain_android_prompt_disable_app_hibernation_reasoning">%1$s arbeitet unauffällig im Hintergrund. Im Ruhezustand hört die App ohne Warnung auf, im Hintergrund zu funktionieren und es erfordert deinen Eingriff um die korrekte Funktion fort zu setzen.</string>
 
