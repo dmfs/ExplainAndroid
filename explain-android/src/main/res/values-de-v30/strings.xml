@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="explain_android_button_go_to_hibernation_settings">Öffne App-Info</string>
+
+    <string name="explain_android_prompt_disable_app_hibernation_instructions">Öffne den App-Info Dialog, gehe zu <b>Berechtigungen</b> and deaktiviere <b>Berechtigungen entfernen, wenn die App nicht verwendet wird</b></string>
+
+</resources>

@@ -1,0 +1,29 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    compileSdk 30
+
+    namespace 'org.dmfs.android.explainandroid'
+
+    defaultConfig {
+        minSdk 21
+        targetSdk 30
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+apply from: "../publish.gradle"
+
+dependencies {
+}

@@ -1,0 +1,32 @@
+<resources>
+
+    <!--
+    Title of dialog to ask users to disable app hibernation.
+    -->
+    <string name="explain_android_title_disable_app_hibernation">Disable App Hibernation</string>
+
+
+    <!--
+    Text on a button that takes the user to where the hibernation setting is. The name should match the name of the Android "App info" dialog.
+    -->
+    <string name="explain_android_button_go_to_hibernation_settings">Open App info</string>
+
+
+    <!--
+    Prompt the user to disable app hibernation.
+    %1$s will be replaced with the app name.
+    -->
+    <string name="explain_android_prompt_disable_app_hibernation">Please disable app hibernation for %1$s.</string>
+
+    <!--
+    Steps to disable app-hibernation.
+    -->
+    <string name="explain_android_prompt_disable_app_hibernation_instructions">Open the Play App, navigate to <b>Menu</b> &gt; <b>Play Protect</b> &gt; <b>Permissions for Unused Apps</b> and disable <b>Remove permissions if app isn\'t used</b></string>
+
+    <!--
+    Reasoning on why app hibernation should/must be disabled for this app.
+    -->
+    <string name="explain_android_prompt_disable_app_hibernation_reasoning">%1$s works in the background, without your interaction. App hibernation would stop the background operation without further notice and require your intervention to resume operation.</string>
+
+
+</resources>

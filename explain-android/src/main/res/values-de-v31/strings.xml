@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="explain_android_prompt_disable_app_hibernation_instructions">Öffne den App-Info Dialog und deaktiviere <b>Entferne Berechtigungen und gib Speicher frei</b></string>
+
+</resources>
