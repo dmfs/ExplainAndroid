@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="explain_android_title_disable_app_hibernation">Sluimerstand uitschakelen</string>
+
+    <string name="explain_android_button_go_to_hibernation_settings">Open de Play-app</string>
+
+    <string name="explain_android_prompt_disable_app_hibernation">Schakel sluimerstand s.v.p. uit voor %1$s.</string>
+
+    <string name="explain_android_prompt_disable_app_hibernation_instructions">Open de Play App, ga naar <b>\"Menu\"</b> &gt; <b>\"Play Protect\"</b> &gt; <b>\"Machtigingen voor ongebruikte apps\"</b> en schakel <b>\"Verwijder toestemmingen als app niet gebruikt wordt\"</b> uit.</string>
+
+    <string name="explain_android_prompt_disable_app_hibernation_reasoning">%1$s werkt in de achtergrond, zonder uw interactie. Sluimerstand zou deze achtergrondwerking stoppen zonder bericht en deze zou door u expliciet weer moeten worden gestart.</string>
+
+</resources>
